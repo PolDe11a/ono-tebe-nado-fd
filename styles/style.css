@@ -3,7 +3,7 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-justify-content: space-between;
+  justify-content: space-between;
   padding: 92px 50px 96px;
 }
 
@@ -254,7 +254,6 @@ justify-content: space-between;
 
 .footer__address {
   max-width: 265px;
-
 }
 
 .footer__menu-list {
@@ -264,16 +263,14 @@ justify-content: space-between;
   align-items: center;
 }
 
-
 .footer__social-list {
-    list-style: none;
-    display: flex;
-    gap: 48px;
-      justify-self: end;
-      align-items: start;
+  list-style: none;
+  display: flex;
+  gap: 48px;
+  justify-self: end;
+  align-items: start;
 }
 
-
 .footer__social-icon {
-    width: 48px;
+  width: 48px;
 }
